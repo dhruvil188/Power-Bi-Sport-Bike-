@@ -8,6 +8,12 @@ In India's diverse and competitive bike market, where prices and models vary sig
 
 This Power BI project presents an interactive bike dashboard that enables users to explore various bike models based on selected criteria. Users can filter bikes by year and company, and the dashboard dynamically updates to show detailed information about each bike.
 
+## Data Collection
+
+The data powering this dashboard is the 2023 Bike Model Dataset, which is publicly available and licensed under CC0: Public Domain. It was sourced to specifically address the needs of the Indian market, including detailed specifications and pricing for a diverse range of bike models. This dataset is updated annually, ensuring the information remains relevant and up-to-date, facilitating a well-informed decision-making process for buyers and market analysts alike.
+
+https://www.kaggle.com/datasets/peshimaammuzammil/2023-bike-model-dataset-all-data-you-need
+
 ## Features
 
 Year and Company Selection: Users can select a specific year and company from the left panel.
@@ -22,8 +28,7 @@ Interactive Visuals: The project utilizes Power BI's capabilities to create enga
 ## Step 2 - Select a Year: Use the year filter to narrow down
 ![image](https://github.com/dhruvil188/Power-Bi-Sport-Bike-/assets/56564974/63f763aa-1ce8-4985-8941-ddd3fbe065c3)
 
-## the bike models by the year they were released.
-## step 3 - Choose a Company: Click on the company name on the left panel to filter bikes from that manufacturer.
+## Step 3 - Choose a Company: Click on the company name on the left panel to filter bikes from that manufacturer.
 ![image](https://github.com/dhruvil188/Power-Bi-Sport-Bike-/assets/56564974/27ea48fb-b5a0-4c17-b0b6-a166964c7ba3)
 
 ## Step 4 - Change Sport Bike Selection
